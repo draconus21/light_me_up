@@ -1,0 +1,1 @@
+Paste the input images in this folder

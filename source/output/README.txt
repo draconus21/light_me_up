@@ -1,0 +1,1 @@
+The output images will be generated in this folder
